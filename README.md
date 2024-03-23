@@ -10,3 +10,5 @@ Python Code: [Jupyter Notebook](url)
 
 ## Output
 Tableau: [Dashboard Link](url)
+
+![Tableau_Dashboard_PM](https://github.com/mikesolieman/private-markets-project/assets/20094652/9486db1f-ecf2-4303-8e81-8e2bd3378b6c)
